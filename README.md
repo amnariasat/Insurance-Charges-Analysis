@@ -45,5 +45,3 @@ Resulted in a clean, consistent dataset ready for full analysis.
 ## Summary
 Smoking status, age, and BMI are the clearest drivers of insurance charges, directly linked to health risk and medical costs. These findings support fairer pricing models, better risk assessment, and more informed strategic decision-making.
 
-## Files
-- Insurance Presentation.pptx — Full presentation including charts, findings, and recommendations
